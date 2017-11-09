@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\kloftis\Downloads\FinalCordic1\FinalCordic\Cordic_UAR_1.ncd
+OUTFILE=C:\Users\kloftis\Downloads\FinalCordic1\FinalCordic\Cordic_UAR_1.bit
+FAMILY=Spartan3E
+PART=xc3s1200e-5fg320
+WORKINGDIR=C:\Users\kloftis\Downloads\FinalCordic1\FinalCordic
+LICENSE=ISE
+USER_INFO=174116782_174116783_177179904_529
